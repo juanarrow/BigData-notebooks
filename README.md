@@ -18,6 +18,14 @@ Reemplaza `XX` con el número de sesión (01, 02, …, 40).
 
 ---
 
+## Material de apoyo
+
+| Cuaderno | Contenido | Colab |
+|----------|-----------|-------|
+| Python paso a paso | Ejemplos de cada apartado de la chuleta de Python | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanarrow/BigData-notebooks/blob/main/ejemplos-python.ipynb) |
+
+---
+
 ## 1er Trimestre
 
 ### 📊 SBD - RA1: Técnicas de análisis
